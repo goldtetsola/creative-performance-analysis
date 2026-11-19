@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "creative-performance-analysis",
+      "name": "creative-strategy",
       "source": {
         "source": "local",
-        "path": "./plugins/creative-performance-analysis"
+        "path": "./plugins/creative-strategy"
       },
       "policy": {
         "installation": "AVAILABLE",

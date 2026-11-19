@@ -6,10 +6,10 @@
   "description": "Free skills for creative strategy.",
   "plugins": [
     {
-      "name": "creative-performance-analysis",
-      "source": "./plugins/creative-performance-analysis",
-      "description": "Creative performance analysis: which ads earn spend, what in the creative explains it, and blueprints for what to make next.",
-      "version": "0.1.2"
+      "name": "creative-strategy",
+      "source": "./plugins/creative-strategy",
+      "description": "Free creative strategy skills for your AI agent. Starts with creative performance analysis: which ads earn spend, why, and what to make next.",
+      "version": "0.2.0"
     }
   ]
 }
