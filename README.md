@@ -76,6 +76,15 @@ The footage similarity check needs `ffmpeg` and `ffprobe`. Everything else needs
 
 `references/voice.md` inside the skill sets how the analysis sounds. Edit it to match your own style; the method and evidence rules don't change.
 
+## Work with me
+
+The skills are free. If you'd rather have it done for you:
+
+- **Creative analysis for your brand.** I go through your ads and results and tell you what's working, what isn't, and what to make next.
+- **Ad account management.** I run your ad accounts and keep the creative and the spend pulling in the same direction.
+
+DM me on X at [@gold_tesla](https://x.com/gold_tesla).
+
 ## Feedback
 
 Found a bug, or a skill that gave bad advice? Open an issue with what you asked and what it did.
