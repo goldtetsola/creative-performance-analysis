@@ -8,14 +8,14 @@ A creative performance analysis for your agent. It finds which ads earn spend, e
 
 ```text
 /plugin marketplace add goldtetsola/creative-performance-analysis
-/plugin install creative-performance-analysis@rorschach
+/plugin install creative-performance-analysis@goldtetsola
 ```
 
 ### Codex (not yet tested)
 
 ```shell
 codex plugin marketplace add goldtetsola/creative-performance-analysis
-codex plugin add creative-performance-analysis@rorschach
+codex plugin add creative-performance-analysis@goldtetsola
 ```
 
 The Codex build ships the same skill and reading check, but it has not been tested in a live Codex session yet. Codex may ask you to trust the plugin's hook.

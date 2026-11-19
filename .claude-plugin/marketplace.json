@@ -1,15 +1,15 @@
 {
-  "name": "rorschach",
+  "name": "goldtetsola",
   "owner": {
     "name": "Gold Tetsola"
   },
-  "description": "Rorschach skills for creative strategy.",
+  "description": "Free skills for creative strategy.",
   "plugins": [
     {
       "name": "creative-performance-analysis",
       "source": "./plugins/creative-performance-analysis",
       "description": "Creative performance analysis: which ads earn spend, what in the creative explains it, and blueprints for what to make next.",
-      "version": "0.1.1"
+      "version": "0.1.2"
     }
   ]
 }
