@@ -4,7 +4,7 @@ Free creative strategy skills for your AI agent. Give it your ads and your resul
 
 Built for creative strategists, and for media buyers who work with creative. Works in Claude Code and Codex, or any agent that can read files and run Python. MIT licensed.
 
-New skills land here over time. Watch the repo (Watch → All activity) to hear when they do.
+Made by Gold Tetsola ([@gold_tesla](https://x.com/gold_tesla)). New skills land here over time. Watch the repo (Watch → All activity) or follow on X to hear when they do.
 
 ## The skills
 
