@@ -8,7 +8,7 @@
     {
       "name": "creative-performance-analysis",
       "source": "./plugins/creative-performance-analysis",
-      "description": "Creative performance debrief: which ads earn spend, what in the creative explains it, and blueprints for what to make next.",
+      "description": "Creative performance analysis: which ads earn spend, what in the creative explains it, and blueprints for what to make next.",
       "version": "0.1.0"
     }
   ]

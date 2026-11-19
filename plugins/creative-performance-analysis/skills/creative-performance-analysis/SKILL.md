@@ -1,14 +1,14 @@
 ---
 name: creative-performance-analysis
 license: MIT
-description: Creative performance debrief. Find which ads earn spend, what in the creative explains it, and what to make next. Use when someone asks what creative is working, wants an account's high, low and zero-spend ads compared, or wants a named creative test reviewed.
+description: Creative performance analysis. Find which ads earn spend, what in the creative explains it, and what to make next. Use when someone asks what creative is working, wants an account's high, low and zero-spend ads compared, or wants a named creative test reviewed.
 ---
 
 # Creative performance analysis
 
-Write a **debrief**: what creative sells for this brand right now, why buyers respond to it, and **blueprints** for what to make or change next. The reader is a creative strategist, or a media buyer working with creative. They want answers about creative; numbers are there when they ask. They take the blueprints into their own process. A debrief gives creative moves only: no budgets, bids, pausing, scaling, audiences or ad sets, and no ad copy, scripts or shot lists.
+Write a **creative analysis**: what creative sells for this brand right now, why buyers respond to it, and **blueprints** for what to make or change next. The reader is a creative strategist, or a media buyer working with creative. They want answers about creative; numbers are there when they ask. They take the blueprints into their own process. The analysis gives creative moves only: no budgets, bids, pausing, scaling, audiences or ad sets, and no ad copy, scripts or shot lists.
 
-The debrief answers four questions:
+The analysis answers four questions:
 
 1. Which ads earn the most spend, and what in their creative explains it against comparable ads?
 2. Which get little or none, and is that the creative or a missing **fair fight**?
@@ -17,13 +17,13 @@ The debrief answers four questions:
 
 ## Required reading
 
-Every debrief runs every step, so every file in this table is required on every run. Read each in full before the step that uses it. A search hit, a skimmed section or a partial read is not a read. A required file never "doesn't apply": if a step would use it, it applies.
+Every analysis runs every step, so every file in this table is required on every run. Read each in full before the step that uses it. A search hit, a skimmed section or a partial read is not a read. A required file never "doesn't apply": if a step would use it, it applies.
 
 | Before step | Read in full |
 |---|---|
 | 2 | [evidence-rules.md](references/evidence-rules.md), [inspecting-ads.md](references/inspecting-ads.md) |
 | 3 | [video-capture.md](references/video-capture.md), [ccs.md](references/ccs.md), [additional-lenses.md](references/additional-lenses.md), [growthcraft.md](references/growthcraft.md), [mindstates.md](references/mindstates.md) from "The four-part model" up to "Heuristics at a decision point", [hook-quality.md](references/hook-quality.md), [similarity.md](references/similarity.md), [reading-the-appeal.md](references/reading-the-appeal.md), [gain-and-loss-framing.md](references/gain-and-loss-framing.md) |
-| 5 | [voice.md](references/voice.md), which sets how the debrief sounds; the user may have edited it |
+| 5 | [voice.md](references/voice.md), which sets how the analysis sounds; the user may have edited it |
 
 Read these only when their condition holds:
 
@@ -35,7 +35,7 @@ Read these only when their condition holds:
 
 Fix the account or named test, its ads, dates, exclusions and the user's objective from the request and what they supplied. A named test is judged on its actual ads and run dates. A plan that hasn't launched stays a plan.
 
-Use whatever the user provides: exports, screenshots, pasted tables, a connection their setup already has, ad files, links, reviews or notes. Then apply the **evidence gate**: every claim in the debrief stands on its own kind of evidence, and without it the debrief says what is missing and what it would answer instead of making the claim.
+Use whatever the user provides: exports, screenshots, pasted tables, a connection their setup already has, ad files, links, reviews or notes. Then apply the **evidence gate**: every claim in the analysis stands on its own kind of evidence, and without it the analysis says what is missing and what it would answer instead of making the claim.
 
 | Claim | Evidence it needs |
 |---|---|
@@ -92,11 +92,11 @@ Blueprints are creative only: new ads, edits to existing ads, and what to stop r
 
 **Done when:** the first blueprint is the most material move you found, with what it could reach named; each blueprint names its kind, its change, what stays, its control or strongest alternative, and what its result can and cannot settle, and its basis passes the evidence gate.
 
-## 5. Check and write the debrief
+## 5. Check and write the analysis
 
 Recompute every figure you use from its source on its declared basis ([check delivered figures](references/evidence-rules.md#check-delivered-figures-on-their-declared-basis)). Check every claim against the evidence gate and against its capture, image or source rows. Correct what fails and recheck what it touches.
 
-Then write the debrief in the voice [voice.md](references/voice.md) sets, and deliver it the way that file says. The debrief carries meaning; the **Evidence** beneath it in the saved file carries measurement. Talk the reader through it in this flow, with a short heading for each part and the page shape [voice.md](references/voice.md) sets:
+Then write the analysis in the voice [voice.md](references/voice.md) sets, and deliver it the way that file says. The analysis carries meaning; the **Evidence** beneath it in the saved file carries measurement. Talk the reader through it in this flow, with a short heading for each part and the page shape [voice.md](references/voice.md) sets:
 
 - **What sells and the contrast behind it:** the lesson first, pitched at the brand ("what sells right now is…") with this week's product as its example, then the ads that won and stalled during their fair fight and the exact moment or line that separates them, in words that carry the size of the split.
 - **Why buyers care:** the want or doubt, in buyers' words when you have them, and how the winner settles it where the other ad doesn't.
@@ -108,4 +108,4 @@ A part the evidence gate blocks is one plain sentence saying what is missing and
 
 The Evidence holds every judgment the steps' "Done when" checks ask for, so each can be checked: each explained ad with its name, ID, what it shows, its opening judgment, its main motivation and gain-or-loss reading with the quoted words, its figures with period and basis, and its capture; the fair-fight verdicts and verified zeros; the similarity verdicts; the calculations and source files.
 
-**Done when:** every figure and claim has passed its check; the debrief passes the read-aloud check in [voice.md](references/voice.md); every question above has an answer in it or a named evidence limit; and the Evidence holds every judgment the steps required.
+**Done when:** every figure and claim has passed its check; the analysis passes the read-aloud check in [voice.md](references/voice.md); every question above has an answer in it or a named evidence limit; and the Evidence holds every judgment the steps required.

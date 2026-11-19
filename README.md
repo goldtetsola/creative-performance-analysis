@@ -1,6 +1,6 @@
 # Creative performance analysis
 
-A creative performance debrief for your agent. It finds which ads earn spend, explains why from the creative itself, and gives blueprints for what to make next. It gives creative moves only, never account or budget moves.
+A creative performance analysis for your agent. It finds which ads earn spend, explains why from the creative itself, and gives blueprints for what to make next. It gives creative moves only, never account or budget moves.
 
 ## Install
 
@@ -43,11 +43,11 @@ The footage similarity check needs `ffmpeg` and `ffprobe`. Everything else needs
 
 ## Use
 
-Give the agent what you have, such as an Ads Manager export, screenshots, the ad videos and images, and customer reviews, and ask what creative is working and what to make next. You get the debrief in chat and a saved copy with the numbers and evidence beneath it. With fewer inputs you get a narrower debrief that says what's missing.
+Give the agent what you have, such as an Ads Manager export, screenshots, the ad videos and images, and customer reviews, and ask what creative is working and what to make next. You get the analysis in chat and a saved copy with the numbers and evidence beneath it. With fewer inputs you get a narrower analysis that says what's missing.
 
 ## Make it sound like you
 
-`references/voice.md` inside the skill sets how the debrief sounds. Edit it to match your own style; the method and evidence rules don't change.
+`references/voice.md` inside the skill sets how the analysis sounds. Edit it to match your own style; the method and evidence rules don't change.
 
 ## License
 

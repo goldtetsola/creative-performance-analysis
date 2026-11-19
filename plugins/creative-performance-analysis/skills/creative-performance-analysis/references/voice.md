@@ -1,6 +1,6 @@
 # Voice
 
-How the debrief sounds. The skill reads this file before writing. Edit it to match your own style; the method and the evidence rules stay the same whatever voice you choose.
+How the analysis sounds. The skill reads this file before writing. Edit it to match your own style; the method and the evidence rules stay the same whatever voice you choose.
 
 ## Who you are writing for
 
@@ -8,7 +8,7 @@ A creative strategist, or a media buyer working with creative, often at an agenc
 
 ## Where the answer goes
 
-Give the full debrief in chat: the chat reply is the debrief itself, word for word the same as the saved copy above its Evidence, never a summary, a list of labelled points or a caveat section standing in for it. Save that debrief to a file with an **Evidence** section beneath it, and end the chat with one line linking the file. The Evidence is where the reader checks you, so the debrief never has to prove itself. Skip the file when the reader asks for chat only. A narrow follow-up gets a direct answer, not another debrief.
+Give the full analysis in chat: the chat reply is the analysis itself, word for word the same as the saved copy above its Evidence, never a summary, a list of labelled points or a caveat section standing in for it. Save that analysis to a file with an **Evidence** section beneath it, and end the chat with one line linking the file. The Evidence is where the reader checks you, so the analysis never has to prove itself. Skip the file when the reader asks for chat only. A narrow follow-up gets a direct answer, not another analysis.
 
 ## Put the answer first
 
@@ -16,7 +16,7 @@ Open with the lesson so the first lines make sense on their own: what sells for 
 
 ## Meaning, not measurement
 
-Translate what you found into what it means. Keep performance numbers in the Evidence by default. Don't drop percentages, ratios, spend splits or metric differences into the debrief to prove you checked the data. A number belongs in the debrief only when the decision turns on that value itself, or when the reader asked for figures; then keep the few that carry the call and make their meaning obvious in the same breath. Words that carry the size of a contrast ("took almost the whole budget", "barely spent") usually do the job better than the figure.
+Translate what you found into what it means. Keep performance numbers in the Evidence by default. Don't drop percentages, ratios, spend splits or metric differences into the analysis to prove you checked the data. A number belongs in the analysis only when the decision turns on that value itself, or when the reader asked for figures; then keep the few that carry the call and make their meaning obvious in the same breath. Words that carry the size of a contrast ("took almost the whole budget", "barely spent") usually do the job better than the figure.
 
 Don't recap ads the reader already knows. Point straight to the moment, line or visual that makes the difference ("21 shakes the bottle so you hear the ice, while 24 just puts 'cold for 24 hours' on screen"). When two ads share one thing and differ in another, say both plainly: same bottle and page, different proof. Scene-by-scene descriptions belong in the Evidence.
 
@@ -34,11 +34,11 @@ Let each sentence lean on the one before it. Mix short sentences that land a cal
 
 Keep all the detail. Structure is what stops it becoming a wall of text:
 
-- A short heading for each part of the debrief, in sentence case.
+- A short heading for each part of the analysis, in sentence case.
 - Paragraphs as long as their point needs. Start a new one when the point changes, so no paragraph carries several points at once.
 - Bullets where the content is a set of parallel things, such as the ads that stalled or the buyers no ad reaches.
 - Each next move numbered, with a bold one-line title saying what to make, then paragraphs talking it through: why it's worth making, what it is, and how to read the result. The title names the move; it is not a form label, and nothing under it is split into labelled fields.
-- No tables in the debrief; they belong in the Evidence.
+- No tables in the analysis; they belong in the Evidence.
 
 ## Cut ritual
 
@@ -54,7 +54,7 @@ Talk through what to shoot or edit next the way you'd pitch it to a teammate: wh
 
 ## Example
 
-This fictional insulated-bottle debrief shows the voice and shape to aim for. Find the real account's own lesson and shape in its evidence; every ad, figure and quote below is made up.
+This fictional insulated-bottle analysis shows the voice and shape to aim for. Find the real account's own lesson and shape in its evidence; every ad, figure and quote below is made up.
 
 > **What sells right now is proof the buyer can check for themselves, not a promise they have to trust.**
 >
@@ -93,15 +93,15 @@ This fictional insulated-bottle debrief shows the voice and shape to aim for. Fi
 
 ## Check before sending
 
-Read the debrief out loud in your head as the strategist receiving it, and fix anything stiff or padded:
+Read the analysis out loud in your head as the strategist receiving it, and fix anything stiff or padded:
 
 - It sounds like a sharp friend over coffee: no scene-by-scene recap of ads they know, no form labels on the moves, no abstract filler.
-- The chat reply is the debrief itself, not a summary of it.
+- The chat reply is the analysis itself, not a summary of it.
 - The first sentence is a lesson about the brand's creative that the next shoot can use, with this week's product as its example, not a fact about one product.
 - They can say in one sentence what sells for this brand and why buyers care, and that lesson still holds after the exception.
 - They know why your top move is the one that could change the most, why it beats the strongest alternative, and how to read a win or a quiet run without overclaiming.
 - Every ad is called an ad, video or static, and no idea hides behind a coined label.
 - It scans: a heading per part, numbered moves with a bold title, and a new paragraph wherever the point changes.
 - Nothing tells them how to launch or set up what you suggest.
-- No number sits in the debrief unless the decision turns on it.
+- No number sits in the analysis unless the decision turns on it.
 - Not one sentence is there to protect you rather than help them decide.

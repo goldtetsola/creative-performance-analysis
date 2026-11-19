@@ -197,7 +197,7 @@ def respond(payload: dict, skill_dir: Path = SKILL_DIR) -> str:
     message = ""
     if missing:
         message = ("creative-performance-analysis: these required references are not yet read in full. "
-                   "Read each one completely before the step that uses it, and before writing the debrief: "
+                   "Read each one completely before the step that uses it, and before writing the analysis: "
                    + "; ".join(missing) + ".")
     elif announce_once(folder):
         message = "creative-performance-analysis: every required reference has been read in full."
