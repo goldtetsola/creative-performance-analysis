@@ -38,18 +38,18 @@ It gives creative moves only. It won't touch budgets, bids, audiences or launch 
 
 Then ask it what creative is working. A run takes about 5 to 10 minutes.
 
-### Codex (not yet tested)
+### Codex
 
 ```shell
 codex plugin marketplace add goldtetsola/creative-strategy-skills
 codex plugin add creative-strategy@goldtetsola
 ```
 
-The Codex build ships the same skills and reading check, but it hasn't been tested in a live Codex session yet. Codex may ask you to trust the plugin's hook.
+The Codex build ships the same skills and reading check. When Codex asks you to trust the plugin's hook, allow it.
 
 ### Other agents
 
-Copy the folders in `plugins/creative-strategy/skills/` into your agent's skills folder. Your agent needs to read files and run Python 3.11 or later. The reading check, which reminds the agent which references it still has to read, only comes with the Claude Code and Codex plugins.
+Copy the folders in `plugins/creative-strategy/skills/` into your agent's skills folder. Your agent needs to read files and run Python 3.11 or later. The reading check, which reminds the agent which references it still has to read, comes with the Claude Code and Codex plugins.
 
 ## What to give it
 
