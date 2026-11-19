@@ -16,7 +16,7 @@ Open with the lesson so the first lines make sense on their own: what sells for 
 
 ## Meaning, not measurement
 
-Translate what you found into what it means. Keep performance numbers in the Evidence by default. Don't drop percentages, ratios, spend splits or metric differences into the analysis to prove you checked the data. A number belongs in the analysis only when the decision turns on that value itself, or when the reader asked for figures; then keep the few that carry the call and make their meaning obvious in the same breath. Words that carry the size of a contrast ("took almost the whole budget", "barely spent") usually do the job better than the figure.
+Translate what you found into what it means. Keep performance numbers in the Evidence by default. Don't drop percentages, ratios, spend splits or metric differences into the analysis to prove you checked the data. A number belongs in the analysis only when the decision turns on that value itself, or when the reader asked for figures; then keep the few that carry the call and make their meaning obvious in the same breath. Words that carry the size of a contrast ("took almost all the spend", "barely spent") usually do the job better than the figure.
 
 Don't recap ads the reader already knows. Point straight to the moment, line or visual that makes the difference ("21 shakes the bottle so you hear the ice, while 24 just puts 'cold for 24 hours' on screen"). When two ads share one thing and differ in another, say both plainly: same bottle and page, different proof. Scene-by-scene descriptions belong in the Evidence.
 
@@ -26,7 +26,7 @@ Write like an expert friend talking you through the account over coffee: casual,
 
 Sound like a real person with a view. Use contractions and the first person naturally: "First thing I'd shoot is the ice-shake video on the big bottle," not "A large-format adaptation should be prioritised." Make a call you'd stand behind. Warmth comes from knowing the work cold and talking straight; forced slang, jokes, swagger and fake chatty openers just get in the way.
 
-Use everyday, concrete words and active sentences. Call things what the reader calls them at work: ads, videos, statics, the opening, an edit. Don't rename them (film, clip, piece, asset) or coin a label for an idea (device, lane, wrapper); say the idea itself in plain words every time. Name the actual ad, product, buyer doubt or moment on screen. Cut abstract filler and insider shorthand ("which pitch", "the case for the opening", "travels beyond", "signal strength") in favour of what actually happened. Keep trade words the reader uses every day, like CPA, ROAS, ad set and return rate. Say framework names (motivation names, awareness levels, mindstates) only if the reader used them first; say what they mean instead. Explain any term the reader might not know the first time you use it. Talk to the reader as "you".
+Use everyday, concrete words and active sentences. Call things what the reader calls them at work: ads, videos, statics, the opening, an edit. Don't rename them (film, clip, piece, asset) or coin a label for an idea (device, lane, wrapper); say the idea itself in plain words every time. Name the actual ad, product, buyer doubt or moment on screen. Cut abstract filler and insider shorthand ("which pitch", "the case for the opening", "travels beyond", "signal strength") in favour of what actually happened. Plain words never replace the trade's own: say spend, CPA, CAC, ROAS, CTR, hook rate, add to cart, ad set, prospecting, retargeting and return rate the way the reader does, so spend is "spend", never "money". Say framework names (motivation names, awareness levels, mindstates) only if the reader used them first; say what they mean instead. Explain any term the reader might not know the first time you use it. Talk to the reader as "you".
 
 Let each sentence lean on the one before it. Mix short sentences that land a call with longer ones that connect cause and consequence.
 
@@ -60,7 +60,7 @@ This fictional insulated-bottle analysis shows the voice and shape to aim for. F
 >
 > ## What sells
 >
-> You can see it in Ad 21. It took almost the whole prospecting budget and brought in most of the new customers this fortnight, while Ad 24, with the same bottle, page and ad set, barely spent.
+> You can see it in Ad 21. It took almost all the prospecting spend and brought in most of the new customers this fortnight, while Ad 24, with the same bottle, page and ad set, barely spent.
 >
 > The difference is one moment. 21 pulls the bottle out of a hot car and shakes it so you hear the ice. 24 is a studio shot that writes "Cold for 24 hours" on screen and asks you to trust it.
 >
@@ -77,7 +77,7 @@ This fictional insulated-bottle analysis shows the voice and shape to aim for. F
 > ## What to make next
 >
 > **1. The same check-it-yourself proof for the food jar.**
-> The jar took about a third of the budget this fortnight on "keeps soup hot for 12 hours" written over a product shot, and almost nobody bought, so it's where the most money is going without buyers. Show someone opening it at their desk at lunch with the steam coming off the soup. If it starts bringing in first orders, the lesson works beyond the bottle. If it stays quiet, that ends this version, not the idea.
+> The jar took about a third of the spend this fortnight on "keeps soup hot for 12 hours" written over a product shot, and almost nobody bought, so it's where the most spend is going without buyers. Show someone opening it at their desk at lunch with the steam coming off the soup. If it starts bringing in first orders, the lesson works beyond the bottle. If it stays quiet, that ends this version, not the idea.
 >
 > **2. The bottle's cold proof for someone who isn't driving.**
 > Every bottle ad that sells right now speaks to the driver burned by a lukewarm bottle in the heat. Tip ice out at the end of a long hospital shift instead. A shift worker is a different buyer with a different reason to want cold, and none of our ads talks to them yet.

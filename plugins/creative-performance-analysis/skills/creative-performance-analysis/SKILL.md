@@ -23,11 +23,11 @@ Every analysis runs every step, so every file in this table is required on every
 |---|---|
 | 2 | [evidence-rules.md](references/evidence-rules.md), [inspecting-ads.md](references/inspecting-ads.md) |
 | 3 | [video-capture.md](references/video-capture.md), [ccs.md](references/ccs.md), [additional-lenses.md](references/additional-lenses.md), [growthcraft.md](references/growthcraft.md), [mindstates.md](references/mindstates.md) from "The four-part model" up to "Heuristics at a decision point", [hook-quality.md](references/hook-quality.md), [similarity.md](references/similarity.md), [reading-the-appeal.md](references/reading-the-appeal.md), [gain-and-loss-framing.md](references/gain-and-loss-framing.md) |
+| 4 | [mature-market-response-chooser.md](references/mature-market-response-chooser.md) |
 | 5 | [voice.md](references/voice.md), which sets how the analysis sounds; the user may have edited it |
 
 Read these only when their condition holds:
 
-- The category is crowded, the usual claims are worn, or buyers distrust them: [mature-market-response-chooser.md](references/mature-market-response-chooser.md).
 - A decision shortcut, such as scarcity or social proof, informs a reading: "Heuristics at a decision point" in [mindstates.md](references/mindstates.md) and the catalogue entries it names.
 - You name a mindstate profile: that whole profile in [mindstates.md](references/mindstates.md).
 
@@ -44,7 +44,7 @@ Use whatever the user provides: exports, screenshots, pasted tables, a connectio
 | A creative lesson from two ads' results, including what a quiet run means | A fair fight between them |
 | Anything about customers, orders or their value | Outcome data, read at the definition it has: credited orders are not people, and attributed is not caused |
 | Why buyers care, stated as fact | Customer evidence in buyers' own words, which shows their stated reason, not what caused a result; otherwise it is a reading of the ad |
-| Why the platform gave or withheld delivery, or how it groups ads | A verified constraint (rejected, paused, no budget, launched late) can be stated; anything else stays a hypothesis |
+| Why the platform gave or withheld delivery, or how it groups ads | How the platform works can be stated, such as Reels taking only video. Why it delivered these ads: a verified constraint (rejected, paused, no budget, launched late) can be stated; any other cause stays a hypothesis |
 
 Intentions are not evidence of what ran. Ad names, labels, briefs, test plans and campaign notes say what someone meant the ad to be, not what it shows or did. They can locate a row; they cannot describe or group ads.
 
@@ -70,27 +70,29 @@ Inspect each selected ad as [inspecting-ads.md](references/inspecting-ads.md) de
 
 Every explanation passes the evidence gate.
 
-Judge each explained ad's opening with [hook-quality.md](references/hook-quality.md): who it stops, why they'd stay, and what sinks it. A blueprint's opening is held to the same test.
+Judge each explained ad's opening with [hook-quality.md](references/hook-quality.md): who it stops, why they'd stay, and what sinks it, and whether the body stays in the register the opening sets ([ccs.md](references/ccs.md), Cognitive State Calibration). A blueprint's opening is held to the same test.
 
 Find the **contrast**. When two ads share product, promise, page and a fair fight but differ in a moment, line or shot you can point to, that element is the difference that matters. How firmly it names the cause still depends on the result counts and on anything else that differs. Ads with different promises, offers or pages show which argument sells, with the other differences named beside the finding. A format label ("UGC beat studio") is where the search starts; the lesson is what the buyer sees, hears or learns. Check rivals that could change the finding: production, offer, page, opportunity, audience, timing and tracking.
 
-Then hunt the **exception**: the ad that breaks your first version of the lesson. Let it sharpen the lesson.
+Then hunt the **exception**: the ad that breaks your first version of the lesson. Let it sharpen the lesson. When the exception splits by audience, read it through how much each audience already knows ([additional-lenses.md](references/additional-lenses.md), 5 Levels of Consumer Awareness): a past buyer and a stranger need different things from the same ad.
 
-Find why buyers care in the customer evidence: the want or doubt, in their words, and the moment the winning ad settles it.
+Find why buyers care in the customer evidence: the want or doubt, in their words, and the moment the winning ad settles it. Name the desire the leaders serve and weigh it on urgency, staying power and scope ([additional-lenses.md](references/additional-lenses.md), mass desire). Name the doubt that stands in the way with the friction map, and check each leader's balance of clarity, specificity, emotion, intrigue and proof ([growthcraft.md](references/growthcraft.md), 2.1.5 and 2.1.4). Without customer evidence these stay readings of the ads. Read each inspected ad's main motivation with [reading-the-appeal.md](references/reading-the-appeal.md) and its gain-or-loss framing with [gain-and-loss-framing.md](references/gain-and-loss-framing.md).
 
-Run the [similarity check](references/similarity.md) on the selected ads as one batch, for what they say and how they look.
+Run the [similarity check](references/similarity.md) on the selected ads as one batch, for what they say and how they look, and place the feeling each sets on the valence and arousal map ([growthcraft.md](references/growthcraft.md), 2.1.1).
 
-**Done when:** every explained ad traces to its full capture or inspected image and its source rows; the contrast, the exception and the buyers' reason are each stated; every explained ad has an opening judgment from [hook-quality.md](references/hook-quality.md#using-it) (who it stops and why they might buy; which of feeling, gap and stakes it carries; promise or loop; anything that sinks it); and every inspected ad in the batch has a main motivation and a gain-or-loss reading, each resting on quoted words or a named visual moment, and a similarity verdict.
+**Done when:** every explained ad traces to its full capture or inspected image and its source rows; the contrast, the exception and the buyers' reason are each stated, with the desire, the doubt and, where the exception splits by audience, each audience's awareness; every explained ad has an opening judgment from [hook-quality.md](references/hook-quality.md#using-it) (who it stops and why they might buy; which of feeling, gap and stakes it carries; promise or loop; anything that sinks it); and every inspected ad in the batch has a main motivation and a gain-or-loss reading, each resting on quoted words or a named visual moment, and a similarity verdict.
 
 ## 4. Choose the blueprints
 
 Start from where the account is weakest: the products, buyers or spend the lesson doesn't reach yet, and the buyers, angles and formats no ad covers (the similarity check shows these). Then size each move: if it works, how much of what the brand sells could it change? A move that carries the lesson to products, buyers or spend that aren't working yet is **material**. Another version of an ad that already works, or a test that only explains why a winner won, is not, unless its answer would change what gets made across the account. Rank by the buyer decision each move could change and how much rides on it. Before keeping one, name what changes from the existing ad, what stays, why it beats the strongest alternative, and what its result could and could not show. When more than one thing changes, a win shows the new version works, not which change did it. A cheap test is high impact when its answer settles a creative choice that could change results; a move that only teaches ranks below one that could. A quiet run ends a version, not the idea behind it.
 
+Before ranking, judge how worn the category's claims are. Check the ads' promises and copy against the signals in [mature-market-response-chooser.md](references/mature-market-response-chooser.md#when-to-use-it) and place the market on the sophistication levels in [additional-lenses.md](references/additional-lenses.md). Use what you have: the ads' own claims, any research the user supplied, and what the category is known to promise; say how sure the call is. When the signals hold, use the chooser's input card to pick the response each buyer group needs, and reject the failure modes it lists. When they don't, take its simpler route. Build a blueprint's opening from the emotional entry points and hook structures in [ccs.md](references/ccs.md).
+
 Each blueprint is one of three kinds, and says which: a **test** of the lesson, an **application** of it, or an **exploration** of something the ads haven't tried. A **repair** of something visibly wrong in an ad is a fourth kind and needs no result behind it. A test names its control, the existing ad it runs against. A blueprint built on a contrast passes the evidence gate: the contrast had a fair fight and its ads' captures were read whole. An ad without a fair fight teaches nothing about its results, so it can only get a repair.
 
 Blueprints are creative only: new ads, edits to existing ads, and what to stop repeating. They never say which audience, ad set or customer group to run an ad to, how many versions to launch, or how to launch, schedule or set up a test; the reader runs that; "keep this for existing customers" is an account move.
 
-**Done when:** the first blueprint is the most material move you found, with what it could reach named; each blueprint names its kind, its change, what stays, its control or strongest alternative, and what its result can and cannot settle, and its basis passes the evidence gate.
+**Done when:** the category call is stated with its signals, its sophistication level and how sure it is, and it set the response of every move aimed at new buyers; the first blueprint is the most material move you found, with what it could reach named; each blueprint names its kind, its change, what stays, its control or strongest alternative, and what its result can and cannot settle, and its basis passes the evidence gate.
 
 ## 5. Check and write the analysis
 
@@ -106,6 +108,6 @@ Then write the analysis in the voice [voice.md](references/voice.md) sets, and d
 
 A part the evidence gate blocks is one plain sentence saying what is missing and what it would answer. Mention ads, media or data left out only when they could change a call.
 
-The Evidence holds every judgment the steps' "Done when" checks ask for, so each can be checked: each explained ad with its name, ID, what it shows, its opening judgment, its main motivation and gain-or-loss reading with the quoted words, its figures with period and basis, and its capture; the fair-fight verdicts and verified zeros; the similarity verdicts; the calculations and source files.
+The Evidence holds every judgment the steps' "Done when" checks ask for, so each can be checked: each explained ad with its name, ID, what it shows, its opening judgment, its main motivation and gain-or-loss reading with the quoted words, its figures with period and basis, and its capture; the desire, doubt and awareness readings; the category call; the fair-fight verdicts and verified zeros; the similarity verdicts; the calculations and source files.
 
 **Done when:** every figure and claim has passed its check; the analysis passes the read-aloud check in [voice.md](references/voice.md); every question above has an answer in it or a named evidence limit; and the Evidence holds every judgment the steps required.
