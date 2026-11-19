@@ -1,0 +1,23 @@
+{
+  "name": "rorschach",
+  "interface": {
+    "displayName": "Rorschach"
+  },
+  "plugins": [
+    {
+      "name": "creative-performance-analysis",
+      "source": {
+        "source": "local",
+        "path": "./plugins/creative-performance-analysis"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL",
+        "products": [
+          "CODEX"
+        ]
+      },
+      "category": "Productivity"
+    }
+  ]
+}
